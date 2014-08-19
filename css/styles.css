@@ -1,0 +1,32 @@
+
+@import url(http://fonts.googleapis.com/css?family=Belleza);
+@import url(http://fonts.googleapis.com/css?family=Gilda+Display);
+
+body {
+  line-height: 1.5em;
+  font-family: "Gilda Display","Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
+.top-bar {
+  background-color: #3299bb;
+}
+
+.top-bar-section {
+  background-color: #3299bb;
+}
+
+.descImage {
+  clear: both;
+  display: block;
+  margin: auto;
+  max-width: 80%;
+  text-align: center;
+}
+
+#centered{
+  width:175px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:150px;
+  height:100%;
+}
