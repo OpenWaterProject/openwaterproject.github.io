@@ -12,7 +12,7 @@ The **Open Water Project** aims to curate and develop novel **water monitoring t
 
 # Reference Designs & Techniques
 
-**Datalogger designs**. Recording water parameter data over time is useful in a variety of contexts; open source hardware for accomplishing this is increasingly available, and is becoming more reliable.  We'd like to faciliate and curate examples of accessible, open source datalogging hardware.  Some examples include: 
+**Datalogger designs**. Recording water parameter data over time is useful in a variety of contexts; open source hardware for accomplishing this is increasingly available, and is becoming more reliable. We'd like to faciliate and curate examples of accessible, open source datalogging hardware.  Some examples include: 
 
 - The Riffle series of dataloggers. See the [Riffle Design Philosophy Wiki](https://publiclab.org/wiki/riffle_design_philosophy), the [Riffle Wiki](http://publiclab.org/wiki/riffle), and the [design files on github](http://github.com/openwaterproject/riffle_328). 
 - The Stroud Research Center's [Mayfly datalogger](http://envirodiy.org/introducing-mayfly/).
