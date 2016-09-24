@@ -1,4 +1,4 @@
-<img src="pics/open_water_header.png" width=100%>
+<img src="pics/open_water_header.png" width=500>
 
 The **Open Water Project** aims to curate and develop novel **water monitoring technologies and social systems** that exemplify five main ideas:
 
